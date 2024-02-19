@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 
-class trainModel extends Model
+class Train extends Model
 {
     use HasFactory;
 }
